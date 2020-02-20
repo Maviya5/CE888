@@ -1,4 +1,4 @@
-1)The data used for the Google analysis is given below
+1)The dataset used for the Google analysis is given below
 
 https://www.kaggle.com/c/ga-customer-revenue-prediction/data
 
